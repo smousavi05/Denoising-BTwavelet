@@ -146,7 +146,7 @@ h = waitbar(0,'Loading...');
 load(data.nm);
 data.x=synt_80_z;
 data.t = linspace(0,(100),length(data.x));
-data.dt = 0.01;
+data.dt = 0.1;
 close(h)
 clear h
 
