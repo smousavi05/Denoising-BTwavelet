@@ -1,8 +1,9 @@
 # Denoising_BTwavelet
 =====================
-This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in: 
-Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding
-, Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345
+
+This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
+
+Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding, Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345
 
 ## Paper
 (https://www.researchgate.net/publication/303849872_Hybrid_Seismic_Denoising_Using_Higher-Order_Statistics_and_Improved_Wavelet_Block_Thresholding)
