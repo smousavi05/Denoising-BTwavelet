@@ -19,6 +19,8 @@ adding a preprocessing step based on a higher-order statistical analysis and a p
 Application of the proposed method on synthetic and real seismic data shows the effectiveness of the method for denoising and
 improving the signal-to-noise ratio of local microseismic, regional, and ocean bottom seismic data.
 
+## demo.m includes all info you need to know for running the code 
+
 ## A Short Description 
 Seismic data recorded by surface arrays are often contaminated by unwanted noise. In many conventional seismic methods, 
 the reliability of the seismic data and accuracy of parameter extraction, such as onset time, polarity, and amplitude, 
