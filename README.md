@@ -5,6 +5,8 @@ This repository contains MATLAB scripts and sample seismic data for appying seis
 
 Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding, Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345
 
+## demo.m includes all info you need to know for running the code 
+
 ## Paper
 (https://www.researchgate.net/publication/303849872_Hybrid_Seismic_Denoising_Using_Higher-Order_Statistics_and_Improved_Wavelet_Block_Thresholding)
 
@@ -18,8 +20,6 @@ Stein (1980). The efficiency of the denoising for seismic data has been improved
 adding a preprocessing step based on a higher-order statistical analysis and a postprocessing step based on Wiener filtering. 
 Application of the proposed method on synthetic and real seismic data shows the effectiveness of the method for denoising and
 improving the signal-to-noise ratio of local microseismic, regional, and ocean bottom seismic data.
-
-## demo.m includes all info you need to know for running the code 
 
 ## A Short Description 
 Seismic data recorded by surface arrays are often contaminated by unwanted noise. In many conventional seismic methods, 
