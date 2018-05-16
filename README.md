@@ -6,6 +6,7 @@ This repository contains MATLAB scripts and sample seismic data for appying seis
 Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding, Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345
 
 `demo.m` includes all info you need to know for running the code 
+you need `MATLAB statistics and signal processing toolbox` to run this code
 
 ## Paper
 (https://www.researchgate.net/publication/303849872_Hybrid_Seismic_Denoising_Using_Higher-Order_Statistics_and_Improved_Wavelet_Block_Thresholding)
