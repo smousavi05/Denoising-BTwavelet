@@ -1,5 +1,5 @@
 # Denoising_BTwavelet
-=====================
+=======================
 
 This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
 
