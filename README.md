@@ -41,7 +41,7 @@ detection of small magnitude events and accuracy of arrival time picking.
 Each major panel shows the original time- series data in the upper left panel and its CWT to the right. Below are
 the denoised seismogram and its CWT for comparison.](Fig.png)
 
-a-Induced microearthquake, b-local earthquake recorded by oceanic bottom seismometer, and c-regional earthquake. 
+a)Induced microearthquake, b)local earthquake recorded by oceanic bottom seismometer, and c)regional earthquake. 
 Each major panel shows the original time- series data in the upper left panel and its CWT to the right. Below are
 the denoised seismogram and its CWT for comparison.
 
