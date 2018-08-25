@@ -1,7 +1,7 @@
 # Wavelet Block-Thresholding Denoising 
 =================================================================================
 
-This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
+This repository contains MATLAB scripts and sample seismic data for appying denoising algorithm proposed in:
 
 Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding, Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345
 
