@@ -1,4 +1,4 @@
-# Denoising_BTwavelet
+# Wavelet Block-Thresholding Denoising 
 =================================================================================
 
 This repository contains MATLAB scripts and sample seismic data for appying seismid denoising proposed in:
