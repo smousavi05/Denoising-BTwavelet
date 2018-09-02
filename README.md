@@ -1,5 +1,5 @@
 # Wavelet Block-Thresholding Denoising 
-=================================================================================
+----------------------------------------------------------------------------------
 
 This repository contains MATLAB scripts and sample seismic data for appying the denoising algorithm proposed in:
 
