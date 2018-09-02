@@ -15,14 +15,6 @@ you need `MATLAB statistics and signal processing toolboxes` to run this code.
 ## Talk 
 (https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
 
-## Abstract 
-We introduce a nondiagonal seismic denoising method based on the continuous wavelet transform with hybrid block thresholding (BT). 
-Parameters for the BT step are adaptively adjusted to the inferred signal property by minimizing the unbiased risk estimate of 
-Stein (1980). The efficiency of the denoising for seismic data has been improved by adapting the wavelet thresholding and 
-adding a preprocessing step based on a higher-order statistical analysis and a postprocessing step based on Wiener filtering. 
-Application of the proposed method on synthetic and real seismic data shows the effectiveness of the method for denoising and
-improving the signal-to-noise ratio of local microseismic, regional, and ocean bottom seismic data.
-
 ## A Short Description 
 Seismic data recorded by surface arrays are often contaminated by unwanted noise. In many conventional seismic methods, 
 the reliability of the seismic data and accuracy of parameter extraction, such as onset time, polarity, and amplitude, 
@@ -36,6 +28,8 @@ dynamically adjusted to the characteristics of the signal and noise. These algor
 analysis and do not require large arrays of seismometers or coherency of arrivals across an array. Hence, they can be applied
 to every type of seismic data and can be combined with other array based methods. Results show these methods can improve 
 detection of small magnitude events and accuracy of arrival time picking.
+
+In this work, we introduce a nondiagonal seismic denoising method based on the continuous wavelet transform with hybrid block thresholding (BT). Parameters for the BT step are adaptively adjusted to the inferred signal property by minimizing the unbiased risk estimate of Stein (1980). The efficiency of the denoising for seismic data has been improved by adapting the wavelet thresholding and adding a preprocessing step based on a higher-order statistical analysis and a postprocessing step based on Wiener filtering. Application of the proposed method on synthetic and real seismic data shows the effectiveness of the method for denoising and improving the signal-to-noise ratio of local microseismic, regional, and ocean bottom seismic data.
 
 ![a-Induced microearthquake, b-local earthquake recorded by oceanic bottom seismometer, and c-regional earthquake. 
 Each major panel shows the original time- series data in the upper left panel and its CWT to the right. Below are
