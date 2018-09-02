@@ -7,7 +7,7 @@ Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher 
 
 `demo.m` includes all info you need to know for running the code. 
 
-you need `MATLAB statistics and signal processing toolboxes` to run this code.
+you need `MATLAB statistics` and `signal processing toolboxes` to run this code.
 
 ## Paper
 (https://www.researchgate.net/publication/303849872_Hybrid_Seismic_Denoising_Using_Higher-Order_Statistics_and_Improved_Wavelet_Block_Thresholding)
