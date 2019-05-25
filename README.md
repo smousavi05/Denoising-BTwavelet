@@ -1,9 +1,23 @@
 # Wavelet Block-Thresholding Denoising 
-----------------------------------------------------------------------------------
 
 This repository contains MATLAB scripts and sample seismic data for appying the denoising algorithm proposed in:
 
-Mousavi S. M., and C. A. Langston (2016). Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding, Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345
+`Mousavi S. M., and C. A. Langston (2016). 
+ Hybrid Seismic denoising Using Higher Order Statistics and Improved Wavelet Block Thresholding, 
+ Bulletin of the Seismological Society of America,106 (4), 1380-1393,doi:10.1785/0120150345`
+
+BibTeX:
+
+    @article{mousavi2016hybrid,
+    title={Hybrid seismic denoising using higher-order statistics and improved wavelet block thresholding},
+    author={Mousavi, S Mostafa and Langston, Charles A},
+    journal={Bulletin of the Seismological Society of America},
+    volume={106},
+    number={4},
+    pages={1380--1393},
+    year={2016},
+    publisher={Seismological Society of America}
+    }
 
 `demo.m` includes all info you need to know for running the code. 
 
@@ -14,6 +28,8 @@ you need `MATLAB statistics` and `signal processing toolboxes` to run this code.
 
 ## Talk 
 (https://earthquake.usgs.gov/contactus/menlo/seminars/1093)
+
+----------------------------------------------------------------------------------
 
 ## A Short Description 
 Seismic data recorded by surface arrays are often contaminated by unwanted noise. In many conventional seismic methods, 
